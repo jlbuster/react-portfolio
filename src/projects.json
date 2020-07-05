@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Day Planner Application",
+      "description1": "The application helps plan your day by displaying the local weather to the most recent hour.",
+      "description2": "In addition, with this application, you will be able to review your daily shedule, create, edit or delete events at specific times on whichever days you prefer, and synchoronize the changes to your Google Calender right away.",
+      "description3": "Lastly, this application also includes a news section that will display the top 5 article titles with their respective links from the New York Times website. This also includes a feature that allows you to favorite articles you enjoy.",
+      "image": "../../images/html1.png",
+      "repository": "https://github.com/jlbuster/JMK-Project",
+      "application": "https://jlbuster.github.io/JMK-Project/"
+    },
+    {
+      "id": 2,
+      "name": "Note Taker",
+      "description1": "This application can be used to write, save and delete notes.",
+      "description2": "This application uses an express backend to save and retrieve note data from a JSON file.",
+      "description3": "The user can input a title and text into the designated area of the note. The user can save the note, and even delete the note later if they choose to.",
+      "image": "",
+      "repository": "https://github.com/jlbuster/Assign-10-JB",
+      "application": "https://assign-10-jb.herokuapp.com/"
+    },
+    {
+      "id": 3,
+      "name": "Burger Application",
+      "description1": "This application can be used to make and devour burgers using node, express, SQL, and handlebars. The user can create new burgers and then choose if they want to devour them or not.",
+      "description2": "The user can add a burger by typing into the text box the burger that they would like to create.",
+      "description3": "Once created, the user will have the option to devour the burger by clicking a button to the right of the burger's name. If the user clicks this button, the burger will be moved to the devoured side.",
+      "image": "",
+      "repository": "https://github.com/jlbuster/burger",
+      "application": "https://shrouded-peak-51161.herokuapp.com/"
+    },
+    {
+      "id": 4,
+      "name": "Business Information Tracker",
+      "description1": "This application was created to help businesses keep track of client information conveniently and efficiently.",
+      "description2": "This application does this through keeping track of the businesses customers, sales orders, and receipts.",
+      "description3": "The user is able to create sales orders, and then view or pay for them on a seperate page.",
+      "image": "",
+      "repository": "https://github.com/Maxsem4/JJM",
+      "application": "https://tranquil-badlands-76650.herokuapp.com/"
+    },
+    {
+      "id": 5,
+      "name": "Build A Team - Node Application",
+      "description1": "This application takes in information about employees and generates an html webpage that displays summaries for each person.",
+      "description2": "The user can input any number of team members, and they may be a mix of engineers and interns.",
+      "description3": "After the user has completed building the team, the application will create an html file that displays a formatted team roster based on the information provided by the user.",
+      "image": "",
+      "repository": "https://github.com/jlbuster/Assign-09-JB",
+      "application": "https://youtu.be/HGP9R3W5Hfc"
+    },
+    {
+      "id": 6,
+      "name": "Employee Tracker - Node Application",
+      "description1": "This application can be used to manage a company's using node, inquirer, and SQL.",
+      "description2": "The user can view, add and even update information about the current employees.",
+      "description3": "This information includes The employee's id, first name, last name, title, salary, their manager, and the name of the department they work in.",
+      "image": "",
+      "repository": "https://github.com/jlbuster/Assign-11-JB",
+      "application": "https://youtu.be/EayeiuOjAg8"
+    }
+  ]
+  
