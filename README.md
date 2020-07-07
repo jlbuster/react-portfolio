@@ -8,4 +8,4 @@ This application displays a screenshot of each of my exemplary homework assignme
 Simple application that runs on html and css. Uses react
 
 ## Link to Portfolio
-Github Pages :  
+Github Pages :  http://jlbuster.github.io/react-portfolio/
