@@ -14,8 +14,8 @@ function ProjectCard(props) {
                         <h3 className="uk-card-title">{props.name}</h3>
                         <p></p>
                         <hr className="uk-divider-icon"/>
-                        <button className="uk-button uk-button-primary proButton1" onclick="" style={{margin:'10px'}}>{props.repository}</button>
-                        <button className="uk-button uk-button-primary proButton2" onclick="" style={{margin:'10px'}}>{props.application}</button>
+                        <button className="uk-button uk-button-primary proButton1" onclick="" style={{margin:'10px'}}><a style={{color: 'white'}}href={props.repository} alt="_blank">{props.repository}</a></button>
+                        <button className="uk-button uk-button-primary proButton2" onclick="" style={{margin:'10px'}}><a style={{color: 'white'}} href={props.application} alt="_blank">{props.application}</a></button>
                     </div>
                 </div>
             </div>

@@ -5,7 +5,7 @@
       "description1": "The application helps plan your day by displaying the local weather to the most recent hour.",
       "description2": "In addition, with this application, you will be able to review your daily shedule, create, edit or delete events at specific times on whichever days you prefer, and synchoronize the changes to your Google Calender right away.",
       "description3": "Lastly, this application also includes a news section that will display the top 5 article titles with their respective links from the New York Times website. This also includes a feature that allows you to favorite articles you enjoy.",
-      "image": "../../images/html1.png",
+      "image": "/images/html1.png",
       "repository": "https://github.com/jlbuster/JMK-Project",
       "application": "https://jlbuster.github.io/JMK-Project/"
     },
